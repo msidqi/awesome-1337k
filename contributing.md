@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- Before suggesting 
+- Don't add your graph/cursus projects unless it's useful for students.
+- Make sure to look for the right category when adding to the list.
+- Don't suggest adding another category/sub-category unless you're sure it's necessary.
 
 Thank you for your suggestions!
 

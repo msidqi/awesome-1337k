@@ -5,8 +5,6 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
 - [Projects](#projects)
 - [Tools](#tools)
 - [Blog Posts and Tutorials](#blog-posts-tutorials)
@@ -26,10 +24,6 @@ Awesome Tools made by students
 ### Graphics
 
 - [Minilibx for Linux and Windows](https://github.com/ilkou/minilibx) | Guide and notes to install and use Minilibx library for Windows and Linux
-
-### Another SubSection
-
-- [List item](http://example.com)
 
 
 ## Blog Posts and Tutorials
